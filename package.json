@@ -1,0 +1,12 @@
+{
+  "name": "hplus-server",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1"
+  }
+}
